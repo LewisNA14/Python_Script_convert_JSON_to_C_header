@@ -1,0 +1,9 @@
+{
+    "name": "UART0",
+    "base_address": 1073750016,
+    "size": 256,
+    "enabled": true,
+    "registers": [
+        {"offset": 0, "name": "CR"}
+    ]
+}
