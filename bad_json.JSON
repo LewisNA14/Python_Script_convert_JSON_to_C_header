@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "base_address": "variable",
+    "size": 256,
+    "enabled": true,
+    "registers": [
+        {"offset": 0, "name": ""}
+    ]
+}
