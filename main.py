@@ -13,7 +13,7 @@ class Peripheral(BaseModel):
     enabled: bool
     registers: list[Register]
     
-with open("template.JSON") as conf:
+with open("spec_char.JSON") as conf:
     data = json.load(conf)          # Gives a dictionary of the file
 
 periph = Peripheral(**data)
