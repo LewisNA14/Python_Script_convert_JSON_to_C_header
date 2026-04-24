@@ -4,6 +4,9 @@
     "size": 256,
     "enabled": true,
     "registers": [
-        {"offset": 0, "name": "CR"}
+        {"offset": 0, "name": "CR"},
+        {"offset": 4, "name": "SR"},
+        {"offset": 8, "name": "DR"},
+        {"offset": 12, "name": "BRR"}
     ]
 }

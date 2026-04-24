@@ -1,7 +1,7 @@
 /**
  * @file UART_periph_template.h
  * @author L. Nicholson-Andrews (lewisnich01@outlook.com)
- * @brief This is a template header file for any Peripheral to use`
+ * @brief This is a template header file for any Peripheral to use
  */
 #ifndef UART_PERIPH_TEMPLATE_H
 #define UART_PERIPH_TEMPLATE_H
