@@ -29,12 +29,14 @@ The main focus is building a clean, validated pipeline: config in, C code out.
 
 | # | Milestone | Status |
 |---|-----------|--------|
-| 1 | Read a JSON file and print its contents | ✅ Done |
-| 2 | Add Pydantic validation to reject badly formed input | ✅ Done |
-| 3 | Write a Jinja2 template that produces a C header file | 🔄 In Progress |
-| 4 | Connect them — config in, C code out | ⬜ Planned |
-| 5 | Wrap it in a Click CLI | ⬜ Planned |
-| 6 | Push to GitHub with a proper README | ⬜ Planned |
+| **1** | Read a JSON file and print its contents | ✅ Done |
+| **2** | Add Pydantic validation to reject badly formed input | ✅ Done |
+| **3** | Understand what a peripheral header should look like | ✅ Done |
+| **4** | Create a peripheral header based on what you've learnt | ✅ Done |
+| **5** | Write a Jinja2 template that produces a C header file | 🔄 In Progress |
+| **6** | Connect them — config in, C code out | ⬜ Planned |
+| **7** | Wrap it in a Click CLI | ⬜ Planned |
+| **8** | Push to GitHub with a proper README | ⬜ Planned |
 
 ### Current Features
 
